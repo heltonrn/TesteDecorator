@@ -1,7 +1,7 @@
 package decorator;
 
 import interfaces.Shape;
-
+//Classe desenho vermelho
 public class RedShapeDecorator extends ShapeDecorator {
 
 	public RedShapeDecorator(Shape decorarShape) {
